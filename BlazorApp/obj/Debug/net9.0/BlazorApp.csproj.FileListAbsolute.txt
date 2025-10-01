@@ -1,7 +1,5 @@
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js
-C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\BlazorApp.rlcx16t48d.pdb
-C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\BlazorApp.hb37q1bya0.wasm
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\dotnet.js
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.map
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.hmanx9razn.js
@@ -238,7 +236,6 @@ C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framewo
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Dynamic.Runtime.88385ealgl.wasm.gz
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.map.gz
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Core.gkc6u7d6gi.wasm.gz
-C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\BlazorApp.hb37q1bya0.wasm.gz
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.IO.IsolatedStorage.5n4jbiy5xh.wasm.gz
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.IO.Compression.Brotli.af0ord36ui.wasm.gz
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Security.SecureString.qp1mnkt53l.wasm.gz
@@ -373,7 +370,6 @@ C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framewo
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Reflection.Primitives.avph1mzt7n.wasm.gz
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Thread.aut7sqgx0j.wasm.gz
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Text.Encoding.35mt6q5ljl.wasm.gz
-C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\BlazorApp.rlcx16t48d.pdb.gz
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.w8ltos2ii6.wasm.gz
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Text.Encoding.CodePages.vc05ey5wlh.wasm.gz
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Private.Xml.ar32x10e5i.wasm.gz
@@ -1064,9 +1060,6 @@ C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\2f0co
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\9emz67xf1m-tjcz0u77k5.gz
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\zeuhmp495u-tptq2av103.gz
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\nshn8u03wo-lfu7j35m59.gz
-C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\6ylt5hya6o-hb37q1bya0.gz
-C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\ui6ug4ok6m-rlcx16t48d.gz
-C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\k4a7psrd0j-4fj1emnz1k.gz
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1082,3 +1075,11 @@ C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.dll
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\refint\BlazorApp.dll
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.pdb
 C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\ref\BlazorApp.dll
+C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\BlazorApp.043qcbo2f5.pdb
+C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\BlazorApp.bdbtue5veh.wasm
+C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\BlazorApp.bdbtue5veh.wasm.gz
+C:\Users\asus\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\wwwroot\_framework\BlazorApp.043qcbo2f5.pdb.gz
+C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.sourcelink.json
+C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\6ylt5hya6o-bdbtue5veh.gz
+C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\ui6ug4ok6m-043qcbo2f5.gz
+C:\Users\asus\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\compressed\k4a7psrd0j-pgk3fpt2wj.gz

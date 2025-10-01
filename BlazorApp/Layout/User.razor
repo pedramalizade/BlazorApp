@@ -1,6 +1,12 @@
-﻿<h3>@Job</h3>
+﻿@page "/User"
+<h3>@Job</h3>
 
 @code {
     [Parameter]
-    public string Job { get; set; }
+    public string Job { get; set; } = "Programmer";
+
+    protected async override Task OnInitializedAsync()
+    {
+        Job = "Developer";
+    }
 }
