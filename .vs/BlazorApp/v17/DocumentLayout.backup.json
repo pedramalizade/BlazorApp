@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\BlazorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6BB2426-A176-45DE-A706-2B09A71EB37F}|BlazorApp\\BlazorApp.csproj|c:\\users\\asus\\source\\repos\\blazorapp\\blazorapp\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A6BB2426-A176-45DE-A706-2B09A71EB37F}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6BB2426-A176-45DE-A706-2B09A71EB37F}|BlazorApp\\BlazorApp.csproj|c:\\users\\asus\\source\\repos\\blazorapp\\blazorapp\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A6BB2426-A176-45DE-A706-2B09A71EB37F}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BB2426-A176-45DE-A706-2B09A71EB37F}|BlazorApp\\BlazorApp.csproj|c:\\users\\asus\\source\\repos\\blazorapp\\blazorapp\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6BB2426-A176-45DE-A706-2B09A71EB37F}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BB2426-A176-45DE-A706-2B09A71EB37F}|BlazorApp\\BlazorApp.csproj|c:\\users\\asus\\source\\repos\\blazorapp\\blazorapp\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6BB2426-A176-45DE-A706-2B09A71EB37F}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6BB2426-A176-45DE-A706-2B09A71EB37F}|BlazorApp\\BlazorApp.csproj|c:\\users\\asus\\source\\repos\\blazorapp\\blazorapp\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A6BB2426-A176-45DE-A706-2B09A71EB37F}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6BB2426-A176-45DE-A706-2B09A71EB37F}|BlazorApp\\BlazorApp.csproj|c:\\users\\asus\\source\\repos\\blazorapp\\blazorapp\\pages\\productlisting.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A6BB2426-A176-45DE-A706-2B09A71EB37F}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\pages\\productlisting.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A6BB2426-A176-45DE-A706-2B09A71EB37F}|BlazorApp\\BlazorApp.csproj|c:\\users\\asus\\source\\repos\\blazorapp\\blazorapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6BB2426-A176-45DE-A706-2B09A71EB37F}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,67 +33,68 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Footer.razor",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\Layout\\Footer.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\Layout\\Footer.razor",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\Layout\\Footer.razor",
-              "RelativeToolTip": "BlazorApp\\Layout\\Footer.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T12:19:12.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Header.razor",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\Layout\\Header.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\Layout\\Header.razor",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\Layout\\Header.razor",
-              "RelativeToolTip": "BlazorApp\\Layout\\Header.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T12:18:59.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "BlazorApp\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T12:17:25.085Z",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazorApp\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorApp\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-07T15:30:14.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductListing.razor",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\Pages\\ProductListing.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\Pages\\ProductListing.razor",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\Pages\\ProductListing.razor",
-              "RelativeToolTip": "BlazorApp\\Pages\\ProductListing.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "Footer.razor",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\Layout\\Footer.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Layout\\Footer.razor",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\Layout\\Footer.razor",
+              "RelativeToolTip": "BlazorApp\\Layout\\Footer.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T12:15:17.292Z",
+              "WhenOpened": "2025-10-07T15:29:24.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Header.razor",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\Layout\\Header.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Layout\\Header.razor",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\Layout\\Header.razor",
+              "RelativeToolTip": "BlazorApp\\Layout\\Header.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T15:27:10.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorApp\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T15:20:57.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorApp\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T15:19:42.201Z",
               "EditorCaption": ""
             }
           ]

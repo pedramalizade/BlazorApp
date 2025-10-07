@@ -1,5 +1,13 @@
-﻿<h3>Footer</h3>
+﻿<nav class="navbar bg-body-tertiary">
+    <div class="container-fluid">
+        <span class="navbar-brand mb-0 h1">کپی رایت فروشگاه خودتون</span>
+    </div>
+</nav>
 
-@code {
-
+@code{
+    string year = "";
+    protected override void OnInitialized(){
+        year = DateTime.Now.Year.ToString();
+        base.OnInitialized();
+    }
 }

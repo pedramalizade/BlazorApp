@@ -36,6 +36,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEhlYWRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/asus/source/repos/BlazorApp/BlazorApp/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/asus/source/repos/BlazorApp/BlazorApp/Layout/User.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFVzZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -51,7 +55,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/asus/source/repos/BlazorApp/BlazorApp/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-kc989pta5g
-
-[C:/Users/asus/source/repos/BlazorApp/BlazorApp/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-iqpjrornlq
