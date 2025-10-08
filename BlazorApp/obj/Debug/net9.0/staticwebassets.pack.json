@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\BlazorApp.styles.css"
     },
     {
+      "Id": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\wwwroot\\Images\\Copilot_20251007_233327.jpg",
+      "PackagePath": "staticwebassets\\Images\\Copilot_20251007_233327.jpg"
+    },
+    {
       "Id": "C:\\Users\\asus\\source\\repos\\BlazorApp\\BlazorApp\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },

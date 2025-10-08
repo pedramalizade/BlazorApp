@@ -1,7 +1,36 @@
-﻿@page "/"
+﻿@using MyBlazor.Libraries.Product
+@using MyBlazor.Libraries.Product.Models
+@page "/"
+@inject IProductService productService
 
-<p>This is the Product Listing</p>
+
+<PageTitle>لیست محصولات</PageTitle>
+@if (Products?.Any() ?? false)
+{
+    <h2> اخرین محصولات ما</h2>
+    <hr />
+    <div class="row">
+        @foreach (var product in Products)
+        {
+            <div class="card" style="width: 18rem;">
+                <img src="/Images/Copilot_20251007_233327.jpg" style="width: 100%" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">@product.Name</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+        }
+    </div>
+}
+
 
 @code {
+    public IList<ProductModel>? Products { get; set; }
 
+    protected override void OnInitialized()
+    {
+        Products = productService.GetAll();
+        base.OnInitialized();
+    }
 }

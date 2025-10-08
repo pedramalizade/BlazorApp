@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\BlazorApp\MyBlazor.Libraries\bin\Debug\net9.0\MyBlazor.Libraries.deps.json
+C:\Users\asus\source\repos\BlazorApp\MyBlazor.Libraries\bin\Debug\net9.0\MyBlazor.Libraries.dll
+C:\Users\asus\source\repos\BlazorApp\MyBlazor.Libraries\bin\Debug\net9.0\MyBlazor.Libraries.pdb
+C:\Users\asus\source\repos\BlazorApp\MyBlazor.Libraries\obj\Debug\net9.0\MyBlazor.Libraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\BlazorApp\MyBlazor.Libraries\obj\Debug\net9.0\MyBlazor.Libraries.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\BlazorApp\MyBlazor.Libraries\obj\Debug\net9.0\MyBlazor.Libraries.AssemblyInfo.cs
+C:\Users\asus\source\repos\BlazorApp\MyBlazor.Libraries\obj\Debug\net9.0\MyBlazor.Libraries.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BlazorApp\MyBlazor.Libraries\obj\Debug\net9.0\MyBlazor.Libraries.sourcelink.json
+C:\Users\asus\source\repos\BlazorApp\MyBlazor.Libraries\obj\Debug\net9.0\MyBlazor.Libraries.dll
+C:\Users\asus\source\repos\BlazorApp\MyBlazor.Libraries\obj\Debug\net9.0\refint\MyBlazor.Libraries.dll
+C:\Users\asus\source\repos\BlazorApp\MyBlazor.Libraries\obj\Debug\net9.0\MyBlazor.Libraries.pdb
+C:\Users\asus\source\repos\BlazorApp\MyBlazor.Libraries\obj\Debug\net9.0\ref\MyBlazor.Libraries.dll

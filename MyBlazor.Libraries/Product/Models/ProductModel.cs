@@ -21,7 +21,7 @@
             }
         }
 
-        public ProductModel(string sku, string name, int price, string image, string v)
+        public ProductModel(string sku, string name, int price, string image)
         {
             this.Sku = sku;
             this.Name = name;
