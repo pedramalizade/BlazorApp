@@ -10,14 +10,14 @@ namespace MyBlazor.Libraries.Storage
         {
             products = new List<ProductModel>();
 
-            AddProduct(new ProductModel("sasa", "sasas", 21, "Copilot_20251007_233327.jpg"));
-            AddProduct(new ProductModel("sgsa", "sasas", 21, "Copilot_20251007_233327.jpg"));
-            AddProduct(new ProductModel("wasa", "sasas", 21, "Copilot_20251007_233327.jpg"));
-            AddProduct(new ProductModel("rasa", "sasas", 21, "Copilot_20251007_233327.jpg"));
-            AddProduct(new ProductModel("tasa", "sasas", 21, "Copilot_20251007_233327.jpg"));
-            AddProduct(new ProductModel("hasa", "sasas", 21, "Copilot_20251007_233327.jpg"));
-            AddProduct(new ProductModel("dasa", "sjkas", 21, "Copilot_20251007_233327.jpg"));
-            AddProduct(new ProductModel("sasa", "sasas", 21, "Copilot_20251007_233327.jpg"));
+            AddProduct(new ProductModel("motor", "motor", 21000, "Copilot_20251007_233327.jpg"));
+            AddProduct(new ProductModel("Car", "Car", 94000, "Copilot_20251007_233327.jpg"));
+            AddProduct(new ProductModel("Mobile", "Mobile", 84000, "Copilot_20251007_233327.jpg"));
+            AddProduct(new ProductModel("Home", "Home", 34000, "Copilot_20251007_233327.jpg"));
+            AddProduct(new ProductModel("LapTop", "LapTop", 71000, "Copilot_20251007_233327.jpg"));
+            AddProduct(new ProductModel("PC", "PC", 46000, "Copilot_20251007_233327.jpg"));
+            AddProduct(new ProductModel("IMac", "IMac", 50000, "Copilot_20251007_233327.jpg"));
+            AddProduct(new ProductModel("Book", "Book", 69000, "Copilot_20251007_233327.jpg"));
         }
 
         private void AddProduct(ProductModel product) 
