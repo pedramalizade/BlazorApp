@@ -1,6 +1,4 @@
-﻿using MyBlazor.Libraries.Product.Models;
-
-namespace MyBlazor.Libraries.Storage
+﻿namespace MyBlazor.Libraries.Storage
 {
     public interface IStorageService
     {

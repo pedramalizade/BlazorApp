@@ -1,7 +1,4 @@
-﻿using MyBlazor.Libraries.Product.Models;
-using MyBlazor.Libraries.Storage;
-
-namespace MyBlazor.Libraries.Product
+﻿namespace MyBlazor.Libraries.Product
 {
     public class ProductService : IProductService
     {

@@ -1,6 +1,4 @@
-﻿using MyBlazor.Libraries.Product.Models;
-
-namespace MyBlazor.Libraries.Product
+﻿namespace MyBlazor.Libraries.Product
 {
     public interface IProductService
     {
