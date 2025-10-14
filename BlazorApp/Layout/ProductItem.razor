@@ -5,7 +5,11 @@
 <div class="card col-3" style="padding:0; width: 18rem">
     <img src="/Images/Copilot_20251007_233327.jpg" style="width: 100%" class="card-img-top" alt="...">
     <div class="card-body">
-        <h5 class="card-title">@Product.Name</h5>
+        <h5 class="card-title">
+            <a href="@Product.FullUrl">
+                @Product.Name
+            </a>
+        </h5>
         <p class="card-text">قسمت : @Product.Price</p>
         <a href="#" class="btn btn-primary">نمایش جزعیات</a>
     </div>
@@ -14,6 +18,4 @@
 @code {
     [Parameter]
     public ProductModel? Product { get; set; }
-    [Parameter]
-    public string Name { get; set; }
 }
