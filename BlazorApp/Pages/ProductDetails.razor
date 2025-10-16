@@ -8,17 +8,17 @@
     <PageTitle>@Product.Name</PageTitle>
 }
 
-    @if (Product == null)
-    {
-        <div class="alert alert-warning">
-            <h2>محصول مورد نظر یافت نشد</h2>
-        </div>
-    }
-    else
-    {
+@if (Product == null)
+{
+    <div class="alert alert-warning">
+        <h2>محصول مورد نظر یافت نشد</h2>
+    </div>
+}
+else
+{
     <div class="row">
         <div class="col-3">
-            <img src="/Images/@Product.Image" class="img-thumbnail" style="width:100%"/>
+            <img src="/Images/@Product.Image" class="img-thumbnail" style="width:100%" />
         </div>
         <div class="col-9">
             <h2>@Product.Name</h2>
@@ -34,16 +34,7 @@
             </li>
         }
     </div>
-    }
-
-<div class="row">
-    <h2>دیگر محصولات ما</h2>
-    <hr />
-    @foreach (var product in ListProduct)
-    {
-        <ProductItem Product="product" />
-    }
-</div>
+}
 
 @code {
     public ProductModel? Product { get; set; }

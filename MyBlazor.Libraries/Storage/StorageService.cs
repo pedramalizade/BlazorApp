@@ -1,12 +1,17 @@
-﻿namespace MyBlazor.Libraries.Storage
+﻿using MyBlazor.Libraries.ShoppingCart.Models;
+
+namespace MyBlazor.Libraries.Storage
 {
     public class StorageService : IStorageService
     {
         public IList<ProductModel> products { get; private set; }
 
+        public ShoppingCartModel ShoppingCart { get; private set; }
+
         public StorageService()
         {
             products = new List<ProductModel>();
+            ShoppingCart = new ShoppingCartModel();
 
             AddProduct(new ProductModel("motor", "motor", 21000, "Copilot_20251007_233327.jpg"));
             AddProduct(new ProductModel("Car", "Car", 94000, "Copilot_20251007_233327.jpg"));
