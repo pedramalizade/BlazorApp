@@ -1,5 +1,9 @@
 ﻿@using MyBlazor.Libraries.Product
 @using MyBlazor.Libraries.Product.Models
+@using MyBlazor.Libraries.ShoppingCart
+@inject IShoppingCartService shoppingCartService
+
+@implements IProductAddToCart
 <h3>ProductItem</h3>
 
 <div class="card col-3" style="padding:0; width: 18rem">
@@ -10,7 +14,30 @@
                 @Product.Name
             </a>
         </h5>
-        <p class="card-text">قسمت : @Product.Price</p>
+        <p class="card-text">قیمت : @Product.Price</p>
+        <div>
+            <div class="col-8"></div>
+          <div class="col-4">
+                <button type="button" class="btn btn-outline-success" @onclick="AddToCart">
+                    @if (shoppingCartService.HasProduct(Product.Sku))
+                    {
+                        <span>
+                            اضافه به سبد خرید.
+                            @if (Quantity.HasValue)
+                            {
+                                <text>@Quantity بیشترش کن</text>
+                            }
+                        </span>
+                    }
+                    else
+                    {
+                        <span>
+                            اولین خریدت رو انجام بده.
+                        </span>
+                    }
+                </button>
+          </div>
+        </div>
         <a href="#" class="btn btn-primary">نمایش جزعیات</a>
     </div>
 </div>
@@ -18,4 +45,16 @@
 @code {
     [Parameter]
     public ProductModel? Product { get; set; }
+
+    public int? Quantity { get; set; }
+}
+@functions{
+    public void AddToCart()
+    {
+        if (Product != null)
+        {
+            shoppingCartService.AddProduct(Product, Quantity ?? 1);
+            Quantity = null;
+        }
+    }
 }
