@@ -1,0 +1,29 @@
+﻿@using MyBlazor.Libraries.ShoppingCart
+@page "/Cart"
+
+@inject IShoppingCartService shoppingCartService
+
+<PageTitle>سبد خرید</PageTitle>
+<div class="row">
+    <table class="table table-bordered table-striped">
+        <tr>
+            <th>تصویر</th>
+            <th>نام</th>
+            <th>تعداد</th>
+            <th>قیمت</th>
+            <th>جمع</th>
+        </tr>
+        @foreach (var item in shoppingCartService.Get().Items)
+        {
+            <tr>
+                <td>
+                    <img src="/Images/@item.Product.Image" style="max-width: 120px" class="card-img-top" alt="...">
+                </td>
+                <td>@item.Product.Name</td>
+                <td>@item.Quantity</td>
+                <td>@item.Price</td>
+                <td>@item.TotalPrice</td>
+            </tr>
+        }
+    </table>
+</div>
