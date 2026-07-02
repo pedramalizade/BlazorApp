@@ -2,8 +2,6 @@ BlazorApp
 
 A modern e-commerce application built with Blazor and .NET, designed to demonstrate interactive UI development, shopping workflows, and scalable application structure.
 
-Overview
-
 BlazorApp is a shopping-focused web application that simulates a modern online shopping experience using Blazor technologies. The project demonstrates how to build responsive and interactive web applications with features such as shopping cart management, product browsing, and user-driven workflows.
 
 This project was built as a practical learning experience to explore modern .NET development patterns and frontend-backend interaction using Blazor.
