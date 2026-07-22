@@ -29,7 +29,6 @@ BlazorApp
 │── Data
 │── Shared
 └── wwwroot
-
 This project explores:
 
 Building interactive applications with Blazor
