@@ -30,7 +30,6 @@ BlazorApp
 │── Shared
 └── wwwroot
 This project explores:
-
 Building interactive applications with Blazor
 State management and UI interaction
 Shopping cart workflows
